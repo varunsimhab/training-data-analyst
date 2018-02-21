@@ -5,7 +5,7 @@ The accompanying video is : https://www.youtube.com/watch?v=72XxyRV6M-M
 Slide deck :https://docs.google.com/presentation/d/e/2PACX-1vR-d6ztE9pkRS1L0pKInaaGMsBf7d_bMETr3Mx0uFYng2Y22zexg0ZaPRWbmmc497EMBeRgg8xvLLfI/pub?start=false&loop=false&delayms=3000&slide=id.g80e24f46b_7_18
 It is pretty comprehensive but some of the
 
-## Getting Started
+## Getting Started 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 

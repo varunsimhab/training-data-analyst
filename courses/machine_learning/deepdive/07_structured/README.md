@@ -1,4 +1,5 @@
 # End-to-end machine learning with TensorFlow on Google Cloud Platform
+![alt text](https://unsee.cc/77826fce/)
 
 This is a fork of the official github:  
 The accompanying video is : https://www.youtube.com/watch?v=72XxyRV6M-M
